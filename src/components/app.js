@@ -1,0 +1,22 @@
+/**
+ * Created by kmukai on 8/15/2017.
+ */
+
+var React = require('react');
+var Header = require('./common/header');
+
+var App = React.createClass({
+    render: function () {
+        return (
+            <div>
+                <Header/>
+
+                <div className="container-fluid">
+                    {this.props.children}
+                </div>
+            </div>
+        )
+    }
+});
+
+module.exports = App;
