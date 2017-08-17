@@ -21,7 +21,7 @@ Run this command to install all dependencies:
 npm install
 ```
 
-Run this command to run the application:
+Run this command to build and deploy the application:
 
 ```sh
 gulp
