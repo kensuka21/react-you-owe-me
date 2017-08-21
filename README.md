@@ -21,6 +21,11 @@ Run this command to install all dependencies:
 npm install
 ```
 
+If you don't have gulp installed globally, run this:
+```sh
+npm install -g gulp
+```
+
 Run this command to build and deploy the application:
 
 ```sh
