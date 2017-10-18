@@ -1,6 +1,6 @@
 # react-you-owe-me
 
-This is a side project build with React.
+This is a side project build with React + Flux + React Router.
 
 ## Technologies
 
